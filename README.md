@@ -2,5 +2,4 @@
 source code of sktech bomber
 
 
-**App Link**
-![app](https://sktechhub.com)
+**App Link : https://www.sktechhub.com**
